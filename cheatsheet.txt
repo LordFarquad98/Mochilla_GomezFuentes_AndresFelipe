@@ -1,0 +1,8 @@
+Enviar mis commits a github
+git push origin "nombre de la rama"
+Traer archivos de una rama a otra
+git merge
+agregar los cambios hechos a stagging (si se le pone . al final se agregan todos los cambios)
+git add .
+commitear los cambios hechos
+git commit -m "mensaje del commit"

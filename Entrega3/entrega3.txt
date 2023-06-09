@@ -1,0 +1,24 @@
+1. Un lenguaje de programación puede estar limitado a ciertos sistemas operativos debido a 
+varias razones: 
+
+-Dependencia del entorno de ejecución: Algunos lenguajes de programación están diseñados 
+para ser ejecutados en un entorno específico, como una máquina virtual o un intérprete. 
+-Herramientas de compilación y tiempo de ejecución: Los compiladores y las herramientas de 
+tiempo de ejecución utilizadas para traducir y ejecutar el código de un lenguaje de 
+programación pueden estar disponibles solo para ciertos sistemas operativos. 
+-Características del sistema operativo: Algunos lenguajes de programación están diseñados 
+para aprovechar características específicas del sistema operativo en el que se ejecutan, 
+Estas características pueden incluir acceso a la interfaz gráfica, llamadas de sistema 
+operativo, acceso a dispositivos de hardware, etc.
+
+2.Vitualbox es una solución de virtualización tipo 2, lo que significa que se instala como 
+una aplicación de software en un sistema operativo ya existente, como windows, macos, Linux 
+u otros. Esto lo diferencia de las soluciones de virtualización tipo 1, que se ejecutan 
+directamente en el hardware y actúan como sistemas operativos independientes. 
+
+3. Generalmente no las afectaría ya que cada maquina virtual se ejecuta de forma aislada pero
+podría llegar a afectar a las demás si unas estan correlacionadas con las otras, es decir
+comparten recursos, una maquina virtual llama procesos o recursos de otra que está en fallo, etc...
+
+
+

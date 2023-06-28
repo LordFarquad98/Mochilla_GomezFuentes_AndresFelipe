@@ -16,3 +16,6 @@ lo        Link encap:Bucle local
           colisiones:0 long.colaTX:1 
           Bytes RX:98 (98.0 B)  TX bytes:98 (98.0 B)
 
+
+Es diferente la IP privada y local a la de la maquina host? 
+sí, son diferentes 
